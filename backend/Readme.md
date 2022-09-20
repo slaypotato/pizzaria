@@ -1,8 +1,8 @@
 # Backend
 ## How to start
 Type
-'''bash
+```bash
 yarn install
 
 yarn dev
-'''
+```
